@@ -16,7 +16,7 @@ const config: Config = {
 
     extend: {
       colors : {
-        brightRed : 'hsl(12, 88%, 59%',
+        brightRed : 'hsl(12, 88%, 59%)',
         brightRedLight : "hsl(12, 88%, 69%)",
         brightRedSupLight : "hsl(12, 88%, 85%)",
         darkBlue : "hsl(228, 39%, 23%)",
